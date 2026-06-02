@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Adam Pithenwala</h1>
-<h3 align="center">Student at MITS, Gwalior🌟.</h3>
+<h1 align="center">Hi 👋, I'm Levy Vargas</h1>
+<h3 align="center">Software Engineer🌟.</h3>
 
 <br>
 
